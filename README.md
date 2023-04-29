@@ -1,6 +1,8 @@
 # 3d-coordinate-transformations
 3D Space Coordinate Transformations for Robotics Applications
 
+[![View 3D Rotations on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/956-3d-rotations)
+
 This folder contains 3 files (m-functions) :
 
 - t2x.m Transformation Matrix to Generalized Position Vector.
@@ -20,5 +22,7 @@ on the same objects it is somewhat useful to keep them in the same folder.
 
 For more detailed information see the help texts of the three functions.
 
-
 January 2001
+
+For a good intro to the subject, see [this chapter](http://motion.pratt.duke.edu/RoboticSystems/3DRotations.html) 
+(file exchange image taken from there).
