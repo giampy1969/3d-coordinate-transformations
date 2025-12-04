@@ -24,5 +24,5 @@ For more detailed information see the help texts of the three functions.
 
 January 2001
 
-For a good intro to the subject, see [this chapter](http://motion.pratt.duke.edu/RoboticSystems/3DRotations.html) 
-(file exchange image taken from there).
+For a quick reference to built-in methods in the Robotics System Toolbox&copy; see [Coordinate Transformations in Robotics](https://www.mathworks.com/help/robotics/ug/coordinate-transformations-in-robotics.html).
+For a good intro to the subject, see [Rotation Matrices](https://en.wikipedia.org/wiki/Rotation_matrix).
